@@ -1,2 +1,3 @@
 gui test
-success
+successnew code
+\n new code
