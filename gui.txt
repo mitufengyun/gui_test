@@ -1,2 +1,2 @@
 gui test
-ÍÆËÍ³É¹¦
+success
